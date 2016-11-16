@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">不染</string>
+    <!--activity_main-->
+    <string name="activity_main_text">关于不染币app对接不染商城积分的公布方案</string>
+    <string name="activity_main_button1">我的推荐</string>
+    <string name="activity_main_button2">新币申购</string>
+    <string name="activity_main_button3">充值币</string>
+    <string name="activity_main_button4">帮助中心</string>
+    <string name="activity_main_button5">首页</string>
+    <string name="activity_main_button6">行情</string>
+    <string name="activity_main_button7">交易</string>
+    <string name="activity_main_button8">咨询</string>
+    <string name="activity_main_button9">账户</string>
+    <string name="activity_main_button_login">登录</string>
+</resources>

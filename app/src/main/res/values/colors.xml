@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ea0203</color>
+    <color name="colorBlack">#878787</color>
+    <!--activity_main-->
+    <color name="activity_main_text_bgcolor">#ea0203</color>
+    <color name="activity_main_text">#ffffff</color>
+    <color name="activity_main_LinearLayout_bgcolor">#f2f2f2</color>
+    <color name="activity_main_white">#ffffff</color>
+    <color name="button_lucency">#00000000</color>
+</resources>
